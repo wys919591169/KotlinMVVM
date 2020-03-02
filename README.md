@@ -1,0 +1,2 @@
+# KotlinMVVM
+简单的mvvmdemo,kotlin+mvvm+room实现一个从数据库中获取数据更新改变recycleview的demo
